@@ -1,0 +1,14 @@
+(This is a simple code that calculates the factorial of a number, inputted by the user.)
+(To run this program, enter "run sample.ing" or "run sample" in main.py)
+Create a new integer called "n".
+Print "Enter a number: ".
+Input n.
+Create a new integer called "result" and initialize it as 1.
+While n is greater than one, execute the action "Set result to result times n.
+(Print result. Print n.) Decrease n by 1.".
+Print result.
+(Step one, if n is less than or equal to one, go to step two.
+Set result to result times n.
+Decrease n by 1.
+Go to step one.
+Step two, print result.)
